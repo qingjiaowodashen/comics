@@ -7,7 +7,7 @@
 		<key>ver</key>
 		<integer>2</integer>
 		<key>updateUrl</key>
-		<string>http://www.51devapp.com/comics/userplists/ManHuaDui.plist</string>
+		<string>https://github.com/qingjiaowodashen/comics/raw/master/ManHuaDui.plist</string>
 	</dict>
 	<key>Servers</key>
 	<array>
